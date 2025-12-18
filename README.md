@@ -34,6 +34,4 @@ python input.py
 python Visualization.py
 ```
 ### sample
-<img width="1365" height="664" alt="image" src="https://github.com/user-attachments/assets/3349c1de-ebd1-40d4-88ba-cc7830f5aa8e" />
-
-
+<img width="1365" height="659" alt="image" src="https://github.com/user-attachments/assets/6f51593c-33b4-4cbc-bcfe-60d4e45d4c48" />
