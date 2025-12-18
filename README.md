@@ -27,3 +27,12 @@ Contributor: tienhsin-bob
 
 ```bash
 python input.py
+```
+### 步驟 2: 生成圓餅圖
+使用 `Visualization.py` 生成圓餅圖
+```bash
+python Visualization.py
+```
+### sample
+<img width="1365" height="662" alt="image" src="https://github.com/user-attachments/assets/572d8452-3e1f-4c9f-afb3-e935b59b720b" />
+
